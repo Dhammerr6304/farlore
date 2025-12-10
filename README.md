@@ -1,4 +1,5 @@
 # FarLore
+
 FarLore: A Web3 platform for collaborative storytelling.
 
 ## 🚀 MVP Mission
@@ -21,3 +22,8 @@ To ship this quickly, we are intentionally **de-scoping** the following features
 * **No** Farcaster integration (for now).
 * **No** Zora integration (we'll use a simple ERC-721 contract first).
 * **No** user profiles or complex social features.
+
+---
+
+## 📊 Agentic Workflow Blueprint
+For detailed implementation-ready workflows that align with the vision (including Gemini/Claude model configurations, data pipelines, outputs, and success metrics), see [WORKFLOWS.md](./WORKFLOWS.md).
