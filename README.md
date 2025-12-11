@@ -21,3 +21,8 @@ To ship this quickly, we are intentionally **de-scoping** the following features
 * **No** Farcaster integration (for now).
 * **No** Zora integration (we'll use a simple ERC-721 contract first).
 * **No** user profiles or complex social features.
+
+---
+
+## 🔧 NFT launch troubleshooting
+If you hit a **404 Not Found** when launching or minting, follow the checklist in [docs/nft-launch-troubleshooting.md](docs/nft-launch-troubleshooting.md) to validate routes, metadata hosting, and Base Sepolia contract access.
